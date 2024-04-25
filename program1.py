@@ -19,7 +19,7 @@ class Solution(object):
 
 # Test cases
 solution = Solution()
-print(solution.isValid("()"))       # Output: True
-print(solution.isValid("()[]{}"))    # Output: True
-print(solution.isValid("(]"))        # Output: False
+print(solution.isValid("()"))       
+print(solution.isValid("()[]{}"))   
+print(solution.isValid("(]"))    
 
